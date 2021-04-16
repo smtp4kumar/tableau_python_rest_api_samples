@@ -1,0 +1,3 @@
+[console_scripts]
+democli = democli.cli:cli
+

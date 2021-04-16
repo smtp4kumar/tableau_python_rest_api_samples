@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+demo_cli.egg-info/PKG-INFO
+demo_cli.egg-info/SOURCES.txt
+demo_cli.egg-info/dependency_links.txt
+demo_cli.egg-info/entry_points.txt
+demo_cli.egg-info/requires.txt
+demo_cli.egg-info/top_level.txt

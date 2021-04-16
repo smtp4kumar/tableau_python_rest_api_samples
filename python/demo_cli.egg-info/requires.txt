@@ -1,0 +1,5 @@
+requests
+verboselogs
+coloredlogs
+dnspython
+click

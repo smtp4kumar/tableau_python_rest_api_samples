@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = false
+name = "pypi"
+
+[packages]
+click = ">=7.0"
+coloredlogs = ">=10.0"
+docker = ">=4.1.0"
+Fabric = ">=2.4.0"
+psycopg2-binary= ">=2.7.5"
+pypsrp = ">=0.4.0"
+python-hosts = ">=0.4.5"
+pytz = ">=2018.7"
+pywinrm = ">=0.4.1"
+requests = ">= 2.20.0"
+requests-credssp = ">=1.1.1"
+verboselogs = ">=1.7"
+jinja2 = "*"
+pyhocon = "*"
+pyyaml = "*"
+demo-cli = {editable = true,path = "."}
+
+[dev-packages]
+pylint = "*"
+
+[requires]
+python_version = "3.6"
